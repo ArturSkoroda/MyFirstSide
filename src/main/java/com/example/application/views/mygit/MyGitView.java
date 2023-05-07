@@ -16,11 +16,11 @@ public class MyGitView extends VerticalLayout {
     public MyGitView() {
         setSpacing(false);
 
-        Image img = new Image("images/empty-plant.png", "placeholder plant");
+        Image img = new Image("images/Git.PNG", "placeholder plant");
         img.setWidth("200px");
         add(img);
 
-        H2 header = new H2("This place intentionally left empty");
+        H2 header = new H2("https://github.com/ArturSkoroda");
         header.addClassNames(Margin.Top.XLARGE, Margin.Bottom.MEDIUM);
         add(header);
         add(new Paragraph("It’s a place where you can grow your own UI 🤗"));
