@@ -23,7 +23,7 @@ public class MyGitView extends VerticalLayout {
         H2 header = new H2("https://github.com/ArturSkoroda");
         header.addClassNames(Margin.Top.XLARGE, Margin.Bottom.MEDIUM);
         add(header);
-        add(new Paragraph("It’s a place where you can grow your own UI 🤗"));
+        add(new Paragraph("If you want to see my projects"));
 
         setSizeFull();
         setJustifyContentMode(JustifyContentMode.CENTER);

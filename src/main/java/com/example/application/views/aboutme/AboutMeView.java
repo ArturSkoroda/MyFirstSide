@@ -24,15 +24,17 @@ public class AboutMeView extends VerticalLayout {
         img.setWidth("400px");
         add(img);
 
-        H2 header = new H2("Jestem doświadczonym kierownikiem z prawie dziesięcioletnim stażem w zarządzaniu zespołami. Posiadasz również wyjątkowe umiejętności interpersonalne, w tym umiejętność budowania relacji oraz pracy z zespołem. Moje mocne strony to pozytywne nastawienie, zaangażowanie oraz komunikatywność.\n" +
+        H2 header = new H2("Cześć\n" +
+                "Nazywam się Artur, krótko o mnie \uD83D\uDE0A\n" +
                 "\n" +
-                "Jestem osobą, która stale dąży do rozwoju i poszukuje pracy pełnej wyzwań. W swojej dotychczasowej pracy jako Supervisor, zdobyłem doświadczenie w realizacji wskaźników efektywnościowych oraz planów sprzedażowych dla swojego zespołu, " +
-                "nadzorowaniu, szkoleniu oraz monitorowaniu jakościowej podległej grupy specjalistów ds. sprzedaży oraz współpracy z QC, HR i Trenerami w zakresie usprawniania i optymalizacji istniejących procesów i procedur. Posiadam podstawowe umiejętności w języku Java, SQL, JDBC i Hibernate oraz framework Spring, mogą przysłużyć się przy pracy nad aplikacjami internetowymi lub bazami danych. "+"\n"+
-                "Posaidam doświadczenie w pracy z oprogramowaniem NAVISION, MAGENTO, BI Office i platformą Allegro które może być przydatne w przypadku projektów związanych z e-commerce."
+                "Jestem doświadczonym kierownikiem z dziesięcioletnim stażem w zarządzaniu zespołami. Cechują mnie również wyjątkowe umiejętności interpersonalne, w tym umiejętność budowania relacji oraz pracy z zespołem( która jest bardzo ważna).\n" +
+                "Posiadam podstawowe umiejętności w języku Java, SQL, JDBC i Hibernate oraz framework Spring, którymi mogę przysłużyć się przy pracy nad aplikacjami internetowymi lub bazami danych. Dysponuję doświadczeniem w pracy z oprogramowaniem NAVISION, MAGENTO, BI Office i platformą Allegro które może być przydatne w przypadku projektów związanych z e-commerce.\n" +
+                "Moje mocne strony to pozytywne nastawienie, zaangażowanie oraz komunikatywność. Jestem osobą, która stale dąży do rozwoju i poszukuje pracy pełnej wyzwań.\n" +
+                "W swojej dotychczasowej pracy jako Supervisor, zdobyłem doświadczenie w realizacji wskaźników efektywnościowych oraz planów sprzedażowych dla swojego zespołu, nadzorowaniu, szkoleniu oraz zapewnianiu wysokiej jakości pracy podległej grupy specjalistów ds. sprzedaży a także współpracy z QC, HR i Trenerami w zakresie usprawniania i optymalizacji istniejących procesów i procedur.\n"
                 );
         header.addClassNames(Margin.Top.XLARGE, Margin.Bottom.MEDIUM);
         add(header);
-        add(new Paragraph("It’s a place where you can grow your own UI 🤗"));
+        add(new Paragraph(""));
 
         setSizeFull();
         setJustifyContentMode(JustifyContentMode.CENTER);
