@@ -27,7 +27,7 @@ public class AboutMeView extends VerticalLayout {
         H2 header = new H2("Cześć\n" +
                 "Nazywam się Artur, krótko o mnie \uD83D\uDE0A\n" +
                 "\n" +
-                "Jestem doświadczonym kierownikiem z dziesięcioletnim stażem w zarządzaniu zespołami. Cechują mnie również wyjątkowe umiejętności interpersonalne, w tym umiejętność budowania relacji oraz pracy z zespołem( która jest bardzo ważna).\n" +
+                "Jestem doświadczonym kierownikiem z dziesięcioletnim stażem w zarządzaniu zespołami. Cechują mnie również zdobyte umiejętności interpersonalne, w tym umiejętność budowania relacji oraz pracy z zespołem( która jest bardzo ważna).\n" +
                 "Posiadam podstawowe umiejętności w języku Java, SQL, JDBC i Hibernate oraz framework Spring, którymi mogę przysłużyć się przy pracy nad aplikacjami internetowymi lub bazami danych. Dysponuję doświadczeniem w pracy z oprogramowaniem NAVISION, MAGENTO, BI Office i platformą Allegro które może być przydatne w przypadku projektów związanych z e-commerce.\n" +
                 "Moje mocne strony to pozytywne nastawienie, zaangażowanie oraz komunikatywność. Jestem osobą, która stale dąży do rozwoju i poszukuje pracy pełnej wyzwań.\n" +
                 "W swojej dotychczasowej pracy jako Supervisor, zdobyłem doświadczenie w realizacji wskaźników efektywnościowych oraz planów sprzedażowych dla swojego zespołu, nadzorowaniu, szkoleniu oraz zapewnianiu wysokiej jakości pracy podległej grupy specjalistów ds. sprzedaży a także współpracy z QC, HR i Trenerami w zakresie usprawniania i optymalizacji istniejących procesów i procedur.\n"
